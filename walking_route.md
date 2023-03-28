@@ -28,3 +28,31 @@ User:
 2. XXX
 3. 一時間くらい歩きたいです。
 ```
+
+## English
+```markdown
+- Today, I feel like spending the whole day walking and having fun.
+- Please suggest a destination for our walking route.
+- Only suggest the next destination (I will ask one by one in order).
+- Travel locations are limited to within Tokyo.
+- The mode of transportation is walking only.
+- Note: It is now the beginning of April.
+
+- From now on, I will ask questions in the following format:
+
+1. Current time
+2. Current location
+3. (My preferences, if any)
+
+- Please consistently answer in the following format:
+
+1. Next destination
+2. Directions to the next destination
+3. Estimated time of arrival
+4. Free talk
+
+User:
+1. 9 AM
+2. XXX
+3. I want to walk for about an hour.
+```
